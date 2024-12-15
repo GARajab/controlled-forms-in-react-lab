@@ -3,6 +3,11 @@
   margin-bottom: 30px;
   text-align: center;
   padding: 30px;
+  
+}
+
+.newBookCardDiv{
+  background-color: rgb(126, 109, 169);
 }
 
 input{
